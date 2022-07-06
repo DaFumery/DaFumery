@@ -7,9 +7,12 @@
 
 ```javascript
 const tanydrej0 = {
-  statedCoding: 2021,
+  startedCoding: 2021,
   age: 25,
   country: 'France',
+  programmingLanguages: [JavaScript, PHP, Python, Ruby],
+  frontDev: ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'Babel'],
+  backDev: 'Node.js'
   code: [HTML, CSS, JavaScript, Python, Ruby, TypeScript],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
