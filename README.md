@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm tanydrej0</h1>
 <h3 align="center">A passionate junior fullstack developer from France.</h3>
 
-<p align="left"> 
-  <a href="https://twitter.com/unknow000000033" target="blank">
-    <img src="https://img.shields.io/twitter/follow/unknow000000033?logo=twitter&style=for-the-badge" alt="unknow000000033" />
-  </a> 
-</p>
+- 🌱 I’m currently learning : **React.js & Node.js**
 
-- 🌱 I’m currently learning **React.js & Node.js**
+- ⚡ Fun fact : **I love FPS, funky music and occult sciences**
 
-- 📫 How to reach me **tanydrej0@protonmail.com**
-
-- ⚡ Fun fact **I love FPS, funky music and occult sciences**
+- 📫 How to reach me : **tanydrej0@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
