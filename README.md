@@ -14,11 +14,11 @@ const tanydrej0 = {
   skills: {
     programmingLanguages: ['JavaScript', 'PHP', 'Python', 'Ruby'],
     frontDev: ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'Babel'],
-    backDev: 'Node'
-    database: ['MangoDB', 'mySQL', 'PostgreSQL']
-    framework: ['React.js', 'Vue.js', 'RubyOnRails']
-    os: ['Windows', 'Linux']
-    other: ['Git']
+    backDev: 'Node',
+    database: ['MangoDB', 'mySQL', 'PostgreSQL'],
+    framework: ['React.js', 'Vue.js', 'RubyOnRails'],
+    os: ['Windows', 'Linux'],
+    other: ['Git'],
   }
  challenge: "I am learning basics on HackTheBox"
 }
