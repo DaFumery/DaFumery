@@ -25,9 +25,3 @@
 <img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafumery&show_icons=true&locale=en&layout=compact" alt="dafumery" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dafumery&show_icons=true&locale=en" alt="dafumery" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dafumery&" alt="dafumery" /></p>
