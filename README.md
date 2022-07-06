@@ -24,7 +24,7 @@
     <img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-
+<br>
 ```javascript
 const tanydrej0 = {
   statedCoding: 2021,
