@@ -10,18 +10,17 @@ const tanydrej0 = {
   startedCoding: 2021,
   age: 25,
   country: 'France',
-  programmingLanguages: [JavaScript, PHP, Python, Ruby],
-  frontDev: ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'Babel'],
-  backDev: 'Node.js'
-  code: [HTML, CSS, JavaScript, Python, Ruby, TypeScript],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "French",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  
+  skills: {
+    programmingLanguages: ['JavaScript', 'PHP', 'Python', 'Ruby'],
+    frontDev: ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'Babel'],
+    backDev: 'Node'
+    database: ['MangoDB', 'mySQL', 'PostgreSQL']
+    framework: ['React.js', 'Vue.js', 'RubyOnRails']
+    os: ['Windows', 'Linux']
+    other: ['Git']
+  }
+ challenge: "I am learning basics on HackTheBox"
 }
 ```
 <br>
