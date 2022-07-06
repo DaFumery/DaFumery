@@ -5,26 +5,6 @@
 - ⚡ Fun fact : **I love FPS, funky music and occult sciences**
 - 📫 How to reach me : **tanydrej0@protonmail.com**
 
-<h3 align="left">Connect with me:</h3>
- <p align="center">
-    <a href="https://twitter.com/unknow000000033" target="blank">
-      <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unknow000000033" height="30" width="40" />
-    </a>
- </p>
- <br>
-<h3 align="left">Languages and Tools:</h3>
-    <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="left" alt="WordPress" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-    <img align="left" alt="JQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-    <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-    <img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<br></br>
 ```javascript
 const tanydrej0 = {
   statedCoding: 2021,
@@ -41,3 +21,16 @@ const tanydrej0 = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+<br>
+<h3 align="left">Languages and Tools:</h3>
+    <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="left" alt="WordPress" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+    <img align="left" alt="JQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+    <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+    <img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
